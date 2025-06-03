@@ -3,8 +3,7 @@ This project combines human resources analytics (turnover, onboarding, salaries)
 Created using Excel and presented as a bilingual PDF report (Czech + English).
 ---
 ## Final Report
-
-[Download full report (PDF)](HR_ESG_Analysis_Report_DenisaPitnerova.pdf)
+[📥 Download full report (PDF)](HR_Data_Analysis_Report_FINAL_Pitnerova.pdf)
 ---
 ## Topics Covered
 - Employee attrition and onboarding analysis (Q1–Q4)
